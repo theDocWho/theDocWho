@@ -5,6 +5,7 @@ focus on **cybersecurity** and **finance / investing** applications.
 
 [![▶ Live interactive explainers](https://img.shields.io/badge/%E2%96%B6%20Live%20interactive%20explainers-1a2b4a?style=for-the-badge)](https://thedocwho.github.io/ai-ml-roadmap/illustrated/index.html)
 [![AI/ML Roadmap](https://img.shields.io/badge/AI%2FML%20Roadmap-0a7d2c?style=for-the-badge)](https://github.com/theDocWho/ai-ml-roadmap)
+[![🏛️ Claude Architect prep site](https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F%20Claude%20Architect%20prep%20site-cc785c?style=for-the-badge)](https://thedocwho.github.io/claude-architect-certification/)
 
 ---
 
@@ -17,6 +18,13 @@ run in your browser**:
 
 ▶ **[Open the live interactive explainers](https://thedocwho.github.io/ai-ml-roadmap/illustrated/index.html)**
 
+**[Claude Certified Architect prep track](https://github.com/theDocWho/claude-architect-certification)** — a
+visual, project-first path to the **CCA-F exam**, built as a full learning **website**: 26 interactive
+explainers across the 5 exam domains, **[the Agent Hangar](https://thedocwho.github.io/claude-architect-certification/hangar.html)**
+(learn agent architecture as a build-your-spaceship game), a 42-question quiz app, 6 projects + capstone:
+
+▶ **[Open the live prep site](https://thedocwho.github.io/claude-architect-certification/)**
+
 #### 🛠️ Focus areas
 
 - **LLMs · RAG · agents · MLOps · AI solution architecture**
@@ -26,6 +34,7 @@ run in your browser**:
 #### 📌 Featured repos
 
 - **[ai-ml-roadmap](https://github.com/theDocWho/ai-ml-roadmap)** — the roadmap, challenges, projects & live explainers
+- **[claude-architect-certification](https://github.com/theDocWho/claude-architect-certification)** — CCA-F prep as an interactive site: explainers, the Agent Hangar game, quiz, projects
 - **[car-crash-fix-amount-predictor](https://github.com/theDocWho/car-crash-fix-amount-predictor)** — CV + cost-regression capstone (ResNet/YOLOv8/XGBoost, deployed)
 
 <sub>Learning in public — everything above is free and open.</sub>
