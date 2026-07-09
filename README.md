@@ -13,7 +13,7 @@ focus on **cybersecurity** and **finance / investing** applications.
 
 **[AI / ML Learning Roadmap](https://ai-ml-roadmap.pages.dev/)** — a free, project-first path from
 *"Java dev who knows no Python"* to production RAG / LLM / agentic systems. **9 phases**, **16** from-scratch
-"Build-Your-Own AI" challenges, **8** production projects, capstones — and **49 interactive explainers you can
+"Build-Your-Own AI" challenges, **8** production projects, capstones — and **55 interactive explainers you can
 run in your browser**:
 
 ▶ **[Open the live interactive explainers](https://ai-ml-roadmap.pages.dev/illustrated/index.html)**
